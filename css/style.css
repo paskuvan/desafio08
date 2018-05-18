@@ -9,10 +9,17 @@ body {
 }
 
 .nav a {
-	color: #0984e3;
+	color: #0984e3 !important;
 }
 
 .nav > li > a:hover, .nav > li > a:focus {
-  background-color: #EF92A5;
+  background-color: transparent !important;
   text-decoration: none;
+
+}
+
+@media screen and (min-width: 480px) {
+    .logotipo {
+    	max-width: 80%;
+    }
 }
