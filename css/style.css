@@ -18,6 +18,23 @@ body {
 
 }
 
+.banner {
+	background-image:url(../images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.banner h2 {
+	text-align: center;
+	color: white;
+}
+
+.banner p {
+	text-align: center;
+	color: white;
+}
+
 @media screen and (min-width: 480px) {
     .logotipo {
     	max-width: 80%;
