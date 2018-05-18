@@ -2,3 +2,17 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
+.logotipo {
+	display: block;
+	width: 400px;
+}
+
+.nav a {
+	color: #0984e3;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+  background-color: #EF92A5;
+  text-decoration: none;
+}
