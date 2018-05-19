@@ -19,7 +19,7 @@ body {
 
 }
 
-.banner {
+/*.banner {
 	background-image:url(../images/banner.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -38,17 +38,13 @@ body {
 	text-align: center;
 	color: white;
 	font-family: 'Source Sans Pro', sans-serif;
-}
+}*/
 
 .imagenes {
 	padding: 30px;
 }
 
 .imagenes h3  {
-	text-align: center;
-}
-
-.imagenes p  {
 	text-align: center;
 }
 
