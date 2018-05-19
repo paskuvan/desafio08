@@ -40,6 +40,17 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
+.imagenes {
+	padding: 30px;
+}
+
+.imagenes h3  {
+	text-align: center;
+}
+
+.imagenes p  {
+	text-align: center;
+}
 
 
 
