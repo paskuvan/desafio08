@@ -49,7 +49,15 @@ body {
 	text-align: center;
 }
 
+.mapa {
+	background-color: #eeeeee;
+	padding: 20px;
+}
 
+.footer {
+	background-color: #eeeeee;
+	
+}
 
 @media screen and (max-width: 480px) {
     .logotipo {
