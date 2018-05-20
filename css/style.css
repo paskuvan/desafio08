@@ -51,8 +51,12 @@ body {
 
 
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 480px) {
     .logotipo {
     	max-width: 80%;
+    }
+
+    .carousel-inner h2 {
+    	font-size: 15px;
     }
 }
