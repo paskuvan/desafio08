@@ -19,28 +19,6 @@ body {
 
 }
 
-
-/*.banner {
-	background-image:url(../images/banner.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 500px;
-    padding: 20px;
-    background-position: 22% 33%;
-}
-
-.banner h2 {
-	text-align: center;
-	color: white;
-	font-family: 'Source Sans Pro', sans-serif;
-}
-
-.banner p {
-	text-align: center;
-	color: white;
-	font-family: 'Source Sans Pro', sans-serif;
-}*/
-
 .imagenes {
 	padding: 30px;
 }
